@@ -1,0 +1,19 @@
+To create an account on github, open the following link in a browser and follow the guided steps:
+https://github.com/
+
+CREATE A REPO
+1. click on the plus (+) icon on upper right corner of your github home page
+2. click on <New repository>
+3. Enter repository name. This should exclude special characters.
+4. Select <public> to make the repo availlable for public or <private> if otherwise.
+5. click to automatically create README.md file and .gitignore file if necessary.
+6. click on <create repository>
+
+CLONE A REPO
+Enter this command on your device terminal;
+
+git clone https://<token>@github.com/<user>/<repo>.git
+
+Replace: <token> with a personal access token generated from your github account
+<user> with our github user name
+<repo> with the repository you are about to clone

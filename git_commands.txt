@@ -1,0 +1,21 @@
+GIT COMMANDS
+1. <git pull> : pull from upstream to localdevice
+2. <git push> : to save changes upstream
+3. <git add .> : to select recently added of change files for commit.
+4. <git commit> : a message describing the reason for changes made on files.
+5. <git branch> : create isolated development environments within a single repository.
+6. <git checkout> : navigating project branches.
+7. <git clean> : Removes untracked files from the working directory.
+8. <git clone> : Creates a copy of an existing Git repository.
+9. <git commit --ammend> : Passing the --amend flag to git commit lets you amend the most recent commit.
+10. <git config> : A convenient way to set configuration options for your Git installation. 
+11. <git fetch> : Fetching downloads a branch from another repository, along with all of its associated commits and files.
+12. <git init> : Initializes a new Git repository.
+13. <git log> : to explore the previous revisions of a project.
+14. <git merge> : to integrate changes from divergent branches. 
+15. <git rebase> : to  move branches around, which helps you avoid unnecessary merge commits. 
+16. <git rebase -i> : The -i flag is used to begin an interactive rebasing session.
+17. <git reflog> : to go back to changesets even though they are not referenced by any branch or tag.
+18. <git remote> : A convenient tool for administering remote connections.
+19. <git reset> : Undoes changes to files in the working directory.
+20. <git status> : Displays the state of the working directory and the staged snapshot.
